@@ -6,6 +6,8 @@ Data science portfolio
 - item 2
 
 
+![https://media.giphy.com/media/Jcd6B4C9whofK8I76I/giphy.gif](https://media.giphy.com/media/Jcd6B4C9whofK8I76I/giphy.gif)
+
 ## Project 2: Classification
 
 ## Project 3: Regression
